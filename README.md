@@ -3,6 +3,7 @@
 Requirements:
 
 Python >=3.8
+Your bucket should have 'versioning enabled'
 
 Install the requirements from the requirements.txt file:
 
