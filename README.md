@@ -11,3 +11,5 @@ Install the requirements from the requirements.txt file:
 Then just run: ```streamlit run main.py```
 
 You should have the AWS credentials configured in your machine
+
+![img.png](img.png)
